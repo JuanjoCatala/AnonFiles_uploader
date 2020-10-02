@@ -11,7 +11,12 @@ Even you have the option of output information of the file
 ***For more information:***
 >python3 anonfiles_uploader.py -h
 
+![alt text](https://imgur.com/tCbVFbE)
+
 ***Example of use:***
 >python3 anonfiles_uploader.py -f test.zip -t True -o /home/User/Documents/
 
 ***In this command we are uploading 'test.zip', with tor proxy, and an output in /home/User/Documents/***
+
+
+![alt text](https://i.imgur.com/klDk0M1.jpg)
