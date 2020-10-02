@@ -11,7 +11,7 @@ Even you have the option of output information of the file
 ***For more information:***
 >python3 anonfiles_uploader.py -h
 
-![alt text](https://imgur.com/tCbVFbE)
+![alt text](https://i.imgur.com/tCbVFbE.png)
 
 ***Example of use:***
 >python3 anonfiles_uploader.py -f test.zip -t True -o /home/User/Documents/
