@@ -5,7 +5,7 @@ Even you have the option of output information of the file
 ***Install requirements***
 >pip3 install requirements.txt
 
-***In first execution a folder will be created, just move your file there to upload it.***
+***In first execution a folder named 'upload' will be created, just move your file there to upload it.***
 > python3 anonfiles_uploader.py
 
 ***For more information:***
