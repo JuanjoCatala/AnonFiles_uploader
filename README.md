@@ -16,7 +16,7 @@ Even you have the option of output information of the file
 ***Example of use:***
 >python3 anonfiles_uploader.py -f test.zip -t True -o /home/User/Documents/
 ***In this command we are uploading 'test.zip', with tor proxy, and an output in /home/User/Documents/***
-[alt text](https://i.imgur.com/7fkB0ce.jpeg)
+![alt text](https://i.imgur.com/7fkB0ce.jpeg)
 
 >python3 anonfiles_uploader.py -f test.zip -p 103.42.195.70:53281 -o /home/User/Documents/
 ***In this command we are uploading 'test.zip', with a custom https proxy, and an output in /home/User/Documents/***
