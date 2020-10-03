@@ -28,12 +28,12 @@ You must have installed python3:
 ***In first execution a folder named 'upload' will be created, just move your file there to upload it.***
 > python3 anonfiles_uploader.py
 
+## Example of use
+
 ***For more information:***
 >python3 anonfiles_uploader.py -h
 
 ![alt text](https://i.imgur.com/tCbVFbE.png)
-
-##Example of use
 
 >python3 anonfiles_uploader.py -f test.zip -t True -o /home/User/Documents/
 
