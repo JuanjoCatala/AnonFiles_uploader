@@ -6,8 +6,7 @@ Even you have the option of output information of the file
 
 ## Table of contents
 * [Setup](#setup)
-* [Examples](#Example of use)
-* [Technologies](#technologies)
+* [Examples](#Examples)
 
 
 
@@ -21,9 +20,13 @@ You must have installed python3:
 ***In first execution a folder named 'upload' will be created, just move your file there to upload it.***
 > python3 anonfiles_uploader.py
 
-## Example of use
 
-***For more information:***
+
+
+
+## Examples
+
+***For basic info:***
 >python3 anonfiles_uploader.py -h
 
 ![alt text](https://i.imgur.com/tCbVFbE.png)
