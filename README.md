@@ -1,16 +1,20 @@
-## AnonFiles_uploader
+### AnonFiles_uploader
 
-Automatically upload files to anonshare, with the possibility to use a proxy, including tor.
-
-Even you have the option of output information of the file
 
 ## Table of contents
+* [General info](#general-info)
 * [Setup](#setup)
 * [Examples](#Examples)
 
 
 
-	
+## General info
+Automatically upload files to anonshare, with the possibility to use a proxy, including tor.
+Even you have the option of output information of the file
+
+
+
+
 ## Setup
 You must have installed python3:
 
