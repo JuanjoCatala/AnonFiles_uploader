@@ -4,6 +4,23 @@ Automatically upload files to anonshare, with the possibility to use a proxy, in
 
 Even you have the option of output information of the file
 
+## Table of contents
+* [Setup](#setup)
+* [Examples](#Example of use)
+* [Technologies](#technologies)
+
+
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+You must have installed python3:
 
 ***Install requirements***
 >pip3 install requirements.txt
@@ -16,7 +33,7 @@ Even you have the option of output information of the file
 
 ![alt text](https://i.imgur.com/tCbVFbE.png)
 
-#***Example of use:***
+##Example of use
 
 >python3 anonfiles_uploader.py -f test.zip -t True -o /home/User/Documents/
 
