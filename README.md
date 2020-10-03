@@ -16,7 +16,6 @@ Even you have the option to output information of the file
 
 
 ## Setup
-You must have installed python3:
 
 ***Install requirements***
 
