@@ -10,7 +10,7 @@
 
 ## General info
 >Automatically upload files to anonshare, with the possibility to use a proxy, including tor. 
-Even you have the option to output information of the file
+You even have the option to output information of the file
 
 
 
