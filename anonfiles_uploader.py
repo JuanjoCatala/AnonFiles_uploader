@@ -104,7 +104,7 @@ try:
 	diccionary = json.loads(str_json_recived)
 
 
-	# We verify de http codes
+	# We verify the http codes
 
 	methods.code_check(diccionary, request)
 
